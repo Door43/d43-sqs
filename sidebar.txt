@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sqs:home|Door43 (sqs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sqs|d43-sqs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sqs/archive/master.zip|d43-sqs.zip]]
+
+**Recent Changes**
+{{changes>ns = sqs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sqs|Ethnologue data]]
+
